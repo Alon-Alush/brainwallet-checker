@@ -6,7 +6,7 @@ Check Balances: Checks the Bitcoin balance of each generated address.
 Multithreading: Processes multiple passphrases concurrently for efficiency.
 Output Results: Writes addresses with a balance to an output file.
 
-# Instasll
+# Install
 pip install ecdsa base58 requests colorama
 
 Put a list of passphrases you want to check in passphrases.txt. Example:
