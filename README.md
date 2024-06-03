@@ -35,5 +35,4 @@ Status: ACTIVE!
 
 # Donations
 If you found this script useful and would like to support its maintainer, feel free to donate.
-
-[![bitcoin-black](https://github.com/Ximi1970/Donate/blob/master/bitcoin-donate-black.png)](https://raw.githubusercontent.com/Alon-Alush/donate/main/donate.txt)
+- BTC: bc1qhx4pdfxfrr5z7whg9zx96502uq5kvanpj4nfsx
