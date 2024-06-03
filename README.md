@@ -10,9 +10,11 @@ Output Results: Writes addresses with a balance to an output file.
 ```pip install ecdsa base58 requests colorama```
 
 Put a list of passphrases you want to check in passphrases.txt. Example:
-```mysecretpassphrase1
+```
+mysecretpassphrase1
 anotherpassphrase
-yetanotherpassphrase```
+yetanotherpassphrase
+```
 
 # Run the Script
 ```Python brain_wallet_checker.py```
