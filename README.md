@@ -37,5 +37,3 @@ Status: ACTIVE!
 If you found this script useful and would like to support its maintainer, feel free to donate.
 
 [![bitcoin-black](https://github.com/Ximi1970/Donate/blob/master/bitcoin-donate-black.png)](https://raw.githubusercontent.com/Alon-Alush/donate/main/donate.txt)
-
-It would be very appreciated 😊
