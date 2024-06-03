@@ -14,7 +14,7 @@ yetanotherpassphrase
 ```
 
 # Run the Script
-```Python brain_wallet_checker.py```
+```Python brainwallet.py```
 
 The script will generate addresses from ```passphrases.txt``` and check the balances of the wallets created. If the script finds a wallet address with balance more than zero, the passphrase, along with the private key and address, will be written to ```wallets_with_balance.txt```
 
