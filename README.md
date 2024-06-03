@@ -1,6 +1,5 @@
 # brainwallet - What this script does
-This Python script generates Bitcoin addresses from a wordlist of brain wallet passphrases and checks the balances of the wallets generated from the passphrases in the wordlist. It helps you find brain wallet addresses that contain Bitcoin.
-
+This Python script generates Bitcoin addresses from a wordlist of brain wallet passphrases. It then checks the balances of the wallets generated from the passphrases in the wordlist. This script helps you find brain wallet addresses that contain Bitcoin balance in them.
 
 
 # Install
