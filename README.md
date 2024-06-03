@@ -1,10 +1,7 @@
 # brainwallet - What this script does
-This Python script generates Bitcoin addresses from a text file containing brain wallet passphrases and checks the balances of these addresses. A brain wallet is a cryptocurrency address derived from a passphrase. This tool helps you find brain wallet addresses that contain Bitcoin balance in them.
-#How it works
-Generate Bitcoin Addresses: Converts passphrases into Bitcoin addresses using the brain wallets method
-Check Balances: Checks the Bitcoin balance of each generated address.
-Multithreading: Processes multiple passphrases concurrently for efficiency.
-Output Results: Writes addresses with a balance to an output file.
+This Python script generates Bitcoin addresses from a wordlist of brain wallet passphrases and checks the balances of the wallets generated from the passphrases in the wordlist. It helps you find brain wallet addresses that contain Bitcoin.
+
+
 
 # Install
 ```pip install ecdsa base58 requests colorama```
