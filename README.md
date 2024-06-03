@@ -7,16 +7,16 @@ Multithreading: Processes multiple passphrases concurrently for efficiency.
 Output Results: Writes addresses with a balance to an output file.
 
 # Install
-pip install ecdsa base58 requests colorama
+```pip install ecdsa base58 requests colorama```
 
-Put a list of passphrases you want to check in passphrases.txt. Example:
-mysecretpassphrase1
+Put a list of passphrases you want to check in ```passphrases.txt```. Example:
+```mysecretpassphrase1
 anotherpassphrase
-yetanotherpassphrase
+yetanotherpassphrase```
 
 # Run the Script
-Run the python script brain_wallet_checker.py
-Execute the script to generate addresses from passphrases.txt and check their balances. If the script finds a wallet address with balance more than zero, the input, along with the private key and address, will be written to wallets_with_balance.txt
+```Python brain_wallet_checker.py```
+Execute the script to generate addresses from ```passphrases.txt``` and check their balances. If the script finds a wallet address with balance more than zero, the input, along with the private key and address, will be written to ```wallets_with_balance.txt```
 
 
 
