@@ -1,4 +1,4 @@
-# brainwallet - What this script does
+# brainwallet
 This Python script generates Bitcoin addresses from a wordlist of brain wallet passphrases. It then checks the balances of the wallets generated from the passphrases in the wordlist. If a wallet generated has a balance > 0, the passphrase, private key and bitcoin address is saved to wallets_with_balance.txt
 
 
