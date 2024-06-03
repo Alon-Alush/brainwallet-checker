@@ -3,6 +3,9 @@ This Python script generates Bitcoin addresses from a wordlist of brain wallet p
 
 
 # Install
+Download the project to your machine
+```git clone https://github.com/Alon-Alush/brainwallet```
+
 Install the required libraries using pip:
 ```pip install -r requirements.txt```
 
