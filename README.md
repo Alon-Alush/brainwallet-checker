@@ -4,7 +4,7 @@ This Python script generates Bitcoin addresses from a wordlist of brain wallet p
 
 # Install
 Install the required libraries using pip:
-```pip install ecdsa base58 requests colorama```
+```pip install -r requirements.txt```
 
 Put a list of passphrases you want process in passphrases.txt. Example:
 ```
