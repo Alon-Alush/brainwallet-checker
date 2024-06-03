@@ -9,7 +9,7 @@ Output Results: Writes addresses with a balance to an output file.
 # Install
 ```pip install ecdsa base58 requests colorama```
 
-Put a list of passphrases you want to check in ```passphrases.txt```. Example:
+Put a list of passphrases you want to check in passphrases.txt. Example:
 ```mysecretpassphrase1
 anotherpassphrase
 yetanotherpassphrase```
