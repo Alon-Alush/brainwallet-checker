@@ -34,5 +34,8 @@ Status: ACTIVE!
 ```
 
 # Donations
+
 If you found this script useful and would like to support its development, feel free to donate to my BTC address: bc1qhx4pdfxfrr5z7whg9zx96502uq5kvanpj4nfsx
+[![bitcoin-black](https://github.com/Ximi1970/Donate/blob/master/bitcoin-donate-black.png)](https://raw.githubusercontent.com/Ximi1970/Donate/master/bitcoin-address.txt)
+
 It would be very appreciated 😊
