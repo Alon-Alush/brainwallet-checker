@@ -38,4 +38,3 @@ Status: ACTIVE!
 
 # Donations
 If you found this script useful and would like to support its maintainer, feel free to donate.
-- BTC: bc1qhx4pdfxfrr5z7whg9zx96502uq5kvanpj4nfsx
